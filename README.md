@@ -4,6 +4,7 @@
 I bridge the gap between rigorous mathematical theory and scalable artificial intelligence. With a background in Applied Mathematics for Decision Informatics from Université Paris Dauphine, my work focuses on building intelligent systems, statistical modeling, and exploring the frontiers of Generative AI.
 
 🎓 M1 AI, Data & Agentics - Université Paris-Dauphine (since Sept. 2025)
+
 🎓 B.Sc. in Mathematics & Computer Science - Université Paris-Dauphine (July 2025)
 
 ---
