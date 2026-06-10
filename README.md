@@ -41,4 +41,6 @@ I bridge the gap between rigorous mathematical theory and scalable artificial in
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/adam-fatnassi-315182320)
 - 📧 **Email:** [your.email@example.com](adam.fatnassi@dauphine.eu)
 
+---
+
 *"All models are wrong but some are useful."* George  E.P. Box. 
