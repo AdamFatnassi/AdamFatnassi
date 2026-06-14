@@ -38,8 +38,8 @@ I bridge the gap between rigorous mathematical theory and scalable artificial in
 ---
 
 ### 📫 Contact
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/adam-fatnassi-315182320)
-- 📧 **Email:** [your.email@example.com](adam.fatnassi@dauphine.eu)
+- 💼 **LinkedIn:** [Adam Fatnassi](www.linkedin.com/in/adam-fatnassi-315182320)
+- 📧 **Email:** [adam.fatnassi@dauphine.eu](adam.fatnassi@dauphine.eu)
 
 ---
 
