@@ -60,11 +60,6 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 
 <!-- 🧩 Add or remove badges to match your real stack (e.g. FastAPI, Kafka, PostgreSQL, Pinecone/Weaviate, Kubernetes, AWS...) -->
 
----
-
-### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamFatnassi)](https://github.com/anuraghazra/github-readme-stats)
----
 
 ### 📫 Let's Connect
 
