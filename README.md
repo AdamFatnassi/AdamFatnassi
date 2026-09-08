@@ -64,8 +64,8 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamFatnassi&show_icons=true&theme=radical&hide_border=true" alt="Adam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamFatnassi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adam Fatnassi&show_icons=true&theme=radical&hide_border=true" alt="Adam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam Fatnassi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
