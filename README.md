@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adam Fatnassi 👋</h1>
-<h3 align="center">AI Engineer in the making — bridging Backend Engineering, NLP/GenAI & Agentic Systems</h3>
+<h3 align="center">AI Engineer in the making, NLP/GenAI & Agentic Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Backend+Engineer;NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 
 ### 🧭 About Me
 
-I bridge the gap between rigorous mathematical theory and scalable, production-grade software. My foundation is **backend engineering with Java & Spring Boot**, and I'm now channeling that engineering discipline into **NLP, Generative AI, and Retrieval-Augmented Generation (RAG)** — with my sights set on **agentic AI systems**.
+I bridge the gap between rigorous mathematical theory and scalable, production-grade software. I'm now channeling that engineering discipline into **NLP, Generative AI, and Retrieval-Augmented Generation (RAG)** — with my sights set on **agentic AI systems**.
 
 - 🎓 **M1 AI, Data & Agentics** — Université Paris-Dauphine *(since Sept. 2025)*
 - 🎓 **B.Sc. Mathematics & Computer Science** — Université Paris-Dauphine *(July 2025)*
-- 🔧 **Background:** Backend development in Java & Spring Boot — APIs, microservices, clean architecture
+- 🔧 **Background:** Modeling & Mathematics, some solid foundations in backend and Java Spring Boot  
 - 🧠 **Focus areas:** NLP, LLMs, RAG systems, and the engineering side of GenAI
 - 🔬 **Currently exploring:** Agentic systems — how LLMs plan, use tools, and act autonomously
 - 📖 **Deep dive:** Studying *"Attention Is All You Need"* to strengthen my transformer fundamentals
@@ -25,8 +25,8 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 ### 🚀 What I'm Working On
 
 <!-- Add your current projects here, e.g.: -->
-- 🔨 *[Project name]* — short description of what it does and what you learned
-- 🔨 *[Project name]* — short description
+- 🔨 *Oracle AWR Diagnostic Platform* — Designed and built an end-to-end database performance analysis and automated diagnostic platform to process Oracle Automatic Workload Repository (AWR) reports, combining a Spring Boot fuzzy inference backend with an Angular analytics dashboard.
+- 🔨 *Financial Agentic RAG Engine: Survivorship-Bias-Free Forensic & Quantitative Analysis System* — This project is an enterprise-grade, agentic Retrieval-Augmented Generation (RAG) backend that unifies qualitative corporate reporting (SEC 10-K/10-Q filings, earnings transcripts) with quantitative time-series market data.
 
 ---
 
@@ -77,7 +77,7 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-fatnassi-315182320" target="_blank">
+  <a href="https://www.linkedin.com/in/adam-fatnassi-315182320" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adam.fatnassi@dauphine.eu">
