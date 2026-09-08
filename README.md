@@ -63,30 +63,26 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdamFatnassi&show_icons=true&theme=radical&hide_border=true" alt="Adam's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamFatnassi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamFatnassi&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
-
-<!-- ⚠️ Replace YOUR_USERNAME above with your actual GitHub username -->
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href=www.linkedin.com/in/adam-fatnassi-315182320 target="_blank">
+  <a href="https://www.linkedin.com/in/adam-fatnassi-315182320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="adam.fatnassi@dauphine.eu">
+  <a href="mailto:adam.fatnassi@dauphine.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add more: portfolio site, Twitter/X, Medium, etc. -->
 </p>
 
 ---
