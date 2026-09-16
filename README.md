@@ -24,10 +24,7 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 
 ### 🚀 What I'm Working On
 
-<!-- Add your current projects here, e.g.: -->
-- 🔨 *Oracle AWR Diagnostic Platform* — Designed and built an end-to-end database performance analysis and automated diagnostic platform to process Oracle Automatic Workload Repository (AWR) reports, combining a Spring Boot fuzzy inference backend with an Angular analytics dashboard.
-- 🔨 *Financial Agentic RAG Engine: Survivorship-Bias-Free Forensic & Quantitative Analysis System* — This project is an enterprise-grade, agentic Retrieval-Augmented Generation (RAG) backend that unifies qualitative corporate reporting (SEC 10-K/10-Q filings, earnings transcripts) with quantitative time-series market data.
-
+## Projects I'm proud of | Project | What it does | Tech | Link | |---------|-------------|------|------| | **AutoDeploy** | Zero-config deployment tool for Node apps â€” 400+ weekly users | Go, Docker | [â†’](https://github.com/you/autodeploy) | | **PgWatcher** | Monitors PostgreSQL query performance and alerts on slow queries | Python, PostgreSQL | [â†’](https://github.com/you/pgwatcher) | | **Formify** | React form library with validation baked in â€” no config required | React, TypeScript | [â†’](https://github.com/you/formify) |
 ---
 
 ### 🛠️ Tech Stack & Toolbox
