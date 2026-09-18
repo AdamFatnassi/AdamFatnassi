@@ -2,7 +2,7 @@
 
 <h3 align="center">AI Engineer in the making, NLP/GenAI & Agentic Systems</h3>
 
-<p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
 
