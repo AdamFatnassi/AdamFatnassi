@@ -1,74 +1,99 @@
-<h1 align="center">Hi, I'm Adam Fatnassi 👋</h1>
+  <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Adam Fatnassi</h1>
+
 <h3 align="center">AI Engineer in the making, NLP/GenAI & Agentic Systems</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=AdamFatnassi">
+    <img src="https://komarev.com/ghpvc/?username=AdamFatnassi&label=Profile%20views&color=00FFFF&style=flat-square" alt="AdamFatnassi's profile views" />
+  </a>
+</p>
 
-### 🧭 About Me
+<img src="none" alt="Banner" width="100%" />
 
-I bridge the gap between rigorous mathematical theory and scalable, production-grade software. I'm now channeling that engineering discipline into **NLP, Generative AI, and Retrieval-Augmented Generation (RAG)** — with my sights set on **agentic AI systems**.
-
+## 📌 About Me
+- I bridge the gap between rigorous mathematical theory and scalable, production-grade software. I'm now channeling that engineering discipline into **NLP, Generative AI, and Retrieval-Augmented Generation (RAG)** — with my sights set on **agentic AI systems**.
 - 🎓 **M1 AI, Data & Agentics** — Université Paris-Dauphine *(since Sept. 2025)*
 - 🎓 **B.Sc. Mathematics & Computer Science** — Université Paris-Dauphine *(July 2025)*
-- 🔧 **Background:** Modeling & Mathematics, some solid foundations in backend and Java Spring Boot  
-- 🧠 **Focus areas:** NLP, LLMs, RAG systems, and the engineering side of GenAI
-- 🔬 **Currently exploring:** Agentic systems — how LLMs plan, use tools, and act autonomously
-- 📖 **Deep dive:** Studying *"Attention Is All You Need"* to strengthen my transformer fundamentals
+- 🔧 **Background:** Modeling & Mathematics, some solid foundations in backend and Java Spring Boot
 
-<!-- 📝 Add more here: current role, internship, project you're proud of, etc. -->
----
 
-### 🛠️ Tech Stack & Toolbox
+## 🧠 My Focus Areas
+- NLP
+- LLMs
+- RAG systems
+- Engineering side of GenAI
 
-**Backend & Languages**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**AI / NLP / GenAI**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-**Data & Infra**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-00A67E?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-<!-- 🧩 Add or remove badges to match your real stack (e.g. FastAPI, Kafka, PostgreSQL, Pinecone/Weaviate, Kubernetes, AWS...) -->
----
-
-### 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdamFatnassi&show_icons=true&theme=radical&hide_border=true" alt="stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamFatnassi&layout=compact&theme=radical&hide_border=true" alt="top languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="streak stats" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="activity graph" /> </p>
-
---- 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-fatnassi-315182320" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adam.fatnassi@dauphine.eu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/AdamFatnassi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdamFatnassi&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="AdamFatnassi's GitHub Stats" />
   </a>
 </p>
 
----
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
 
 <p align="center">
-  <em>"All models are wrong, but some are useful."</em> — George E. P. Box
+  <a href="https://github.com/AdamFatnassi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdamFatnassi&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam-fatnassi-315182320"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Adam Fatnassi's LinkedIn"/></a>&nbsp;
+  <a href="mailto:adam.fatnassi@dauphine.eu"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Adam Fatnassi's Email"/></a>
+</p>
+
+## 💬 Quote
+> "All models are wrong, but some are useful." — George E. P. Box
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
