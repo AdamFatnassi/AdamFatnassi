@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I bridge the gap between rigorous mathematical theory and scalable, production-grade software. I'm now channeling that engineering discipline into **NLP, Generative AI, and Retrieval-Augmented Generation (RAG)** — with my sights set on **agentic AI systems**.
