@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in the making, NLP/GenAI & Agentic Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Backend+Engineer;NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,12 +19,6 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 - 📖 **Deep dive:** Studying *"Attention Is All You Need"* to strengthen my transformer fundamentals
 
 <!-- 📝 Add more here: current role, internship, project you're proud of, etc. -->
-
----
-
-### 🚀 What I'm Working On
-
-## Projects I'm proud of | Project | What it does | Tech | Link | |---------|-------------|------|------| | **AutoDeploy** | Zero-config deployment tool for Node apps â€” 400+ weekly users | Go, Docker | [â†’](https://github.com/you/autodeploy) | | **PgWatcher** | Monitors PostgreSQL query performance and alerts on slow queries | Python, PostgreSQL | [â†’](https://github.com/you/pgwatcher) | | **Formify** | React form library with validation baked in â€” no config required | React, TypeScript | [â†’](https://github.com/you/formify) |
 ---
 
 ### 🛠️ Tech Stack & Toolbox
@@ -56,8 +50,12 @@ I bridge the gap between rigorous mathematical theory and scalable, production-g
 </p>
 
 <!-- 🧩 Add or remove badges to match your real stack (e.g. FastAPI, Kafka, PostgreSQL, Pinecone/Weaviate, Kubernetes, AWS...) -->
+---
 
+### 📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdamFatnassi&show_icons=true&theme=radical&hide_border=true" alt="stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamFatnassi&layout=compact&theme=radical&hide_border=true" alt="top languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="streak stats" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="activity graph" /> </p>
 
+--- 
 ### 📫 Let's Connect
 
 <p align="left">
