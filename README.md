@@ -6,12 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=NLP+%26+GenAI+Enthusiast;Building+RAG+Pipelines;Learning+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AdamFatnassi">
-    <img src="https://komarev.com/ghpvc/?username=AdamFatnassi&label=Profile%20views&color=00FFFF&style=flat-square" alt="AdamFatnassi's profile views" />
-  </a>
-</p>
-
 
 ## 📌 About Me
 - I bridge the gap between rigorous mathematical theory and scalable, production-grade software. I'm now channeling that engineering discipline into **NLP, Generative AI, and Retrieval-Augmented Generation (RAG)** — with my sights set on **agentic AI systems**.
