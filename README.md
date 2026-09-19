@@ -83,7 +83,6 @@
   <a href="mailto:adam.fatnassi@dauphine.eu"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Adam Fatnassi's Email"/></a>
 </p>
 
-## 💬 Quote
 > "All models are wrong, but some are useful." — George E. P. Box
 
 <div align="center">
