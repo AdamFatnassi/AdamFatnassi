@@ -31,7 +31,7 @@ I design and ship **LLM-powered systems**: from OCR and chunking to hybrid retri
 My journey from mathematical foundations to agentic systems:
 
 <p align="center">
-  <img src="./assets/roadmap.svg" alt="Animated project roadmap: Foundations, Eruditio and Mini-GPT, SELMA hackathon, Agentic RAG, Industry internships, next internship Feb 2027" width="100%" />
+  <img src="./roadmap.svg" alt="Animated project roadmap: Foundations, Eruditio and Mini-GPT, SELMA hackathon, Agentic RAG, Industry internships, next internship Feb 2027" width="100%" />
 </p>
 
 | Stage | Project | Focus | Status |
