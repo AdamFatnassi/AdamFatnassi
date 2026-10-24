@@ -37,7 +37,7 @@ My journey from mathematical foundations to agentic systems:
 | Stage | Project | Focus | Status |
 |:--:|---|---|:--:|
 | 1 | Applied Maths & CS degree (MIDO) | Linear algebra, probability, algorithms, SQL, Java | ✅ Done |
-| 2 | **Eruditio** + Mini-GPT | Transformers, self-attention, LLMs from scratch | ✅ Done |
+| 2 | **Eruditio** + Mini-GPT | Transformers, self-attention, LLMs from scratch | In progress ⏳ |
 | 3 | **SELMA** (EY & Dauphine Hackathon) | ETL, risk scoring, GLMs, DeepONet | ✅ Done |
 | 4 | **Quant Finance Agentic RAG** | LangChain, Qdrant, cointegration, HMM | ✅ Done |
 | 5 | **Ooredoo** and **Vermeg** internships | Production RAG, OCR, Spring Boot, rule engines | ✅ Done |
